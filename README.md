@@ -1,2 +1,2 @@
 # jesse-portfolio
-This is a repo for my Netlify Profile
+This is a repo for my Personal Profile
