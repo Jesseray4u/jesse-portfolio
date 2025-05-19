@@ -1,4 +1,28 @@
-# Jesse Portfolio
+# # Jesse Portfolio
+
+> This is a modern personal profile site built with Next.js, styled with Tailwind CSS, and deployed on Vercel.
+
+[![Vercel](https://vercelbadge.vercel.app/api/Jesseray4u/jesse-portfolio)](https://jesse-portfolio-ilg4.vercel.app)
+
+## Live Demo
+
+**[View Live Site →](https://jesse-portfolio-ilg4.vercel.app)**
+
+---
+
+## Features
+
+- Built with [Next.js](https://nextjs.org/)
+- Deployed on [Vercel](https://vercel.com)
+- SEO-friendly with `sitemap.xml` and `robots.txt`
+- Social sharing components
+- Fully responsive layout
+
+## Setup
+
+```bash
+npm install
+npm run dev Portfolio
 
 [![Vercel Deploy](https://vercel.com/button)](https://jesse-portfolio-ilg4.vercel.app)
 [![License: MIT](https://img.shields.io/github/license/Jesseray4u/jesse-portfolio)](LICENSE)
