@@ -1,4 +1,26 @@
-# Jesse Chapman's Portfolio
+# Jesse Portfolio
+
+[![Vercel Deploy](https://vercel.com/button)](https://jesse-portfolio-ilg4.vercel.app)
+[![License: MIT](https://img.shields.io/github/license/Jesseray4u/jesse-portfolio)](LICENSE)
+
+**Live Site:** [https://jesse-portfolio-ilg4.vercel.app](https://jesse-portfolio-ilg4.vercel.app)
+
+A sleek, modern, and responsive personal portfolio built using **Next.js** and deployed with **Vercel**. This project showcases my skills, resume, and social contact options, optimized for SEO and fast loading.
+
+---
+
+## Features
+- SEO-ready (sitemap, robots.txt)
+- Optimized Next.js build
+- Responsive design
+- Social share bar
+- Resume download
+- Easy deploy on Vercel
+
+---
+
+## License
+This project is licensed under the MIT License.# Jesse Chapman's Portfolio
 
 [![Vercel](https://vercelbadge.vercel.app/api/Jesseray4u/jesse-portfolio)](https://jesse-portfolio-ilg4.vercel.app)
 
